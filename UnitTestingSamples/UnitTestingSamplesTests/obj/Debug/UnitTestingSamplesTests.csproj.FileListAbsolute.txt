@@ -1,0 +1,10 @@
+c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamplesTests\bin\Debug\UnitTestingSamplesTests.dll
+c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamplesTests\bin\Debug\UnitTestingSamplesTests.pdb
+c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamplesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamplesTests\bin\Debug\UnitTestingSamples.dll
+c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamplesTests\bin\Debug\UnitTestingSamples.pdb
+c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamplesTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamplesTests\obj\Debug\UnitTestingSamplesTests.csprojResolveAssemblyReference.cache
+c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamplesTests\obj\Debug\UnitTestingSamplesTests.csproj.CoreCompileInputs.cache
+c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamplesTests\obj\Debug\UnitTestingSamplesTests.dll
+c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamplesTests\obj\Debug\UnitTestingSamplesTests.pdb

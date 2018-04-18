@@ -1,0 +1,5 @@
+c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamples\bin\Debug\UnitTestingSamples.dll
+c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamples\bin\Debug\UnitTestingSamples.pdb
+c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamples\obj\Debug\UnitTestingSamples.csproj.CoreCompileInputs.cache
+c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamples\obj\Debug\UnitTestingSamples.dll
+c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamples\obj\Debug\UnitTestingSamples.pdb
