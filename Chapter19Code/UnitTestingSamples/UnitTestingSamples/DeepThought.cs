@@ -8,7 +8,7 @@ namespace UnitTestingSamples
 {
    public class DeepThought
     {
-        public int TheAnswerOfTheUltimateQuestionOfLifeTheUniverseAndEverything() => 41;
+        public int TheAnswerOfTheUltimateQuestionOfLifeTheUniverseAndEverything() => 42;
 
         //public int TheAnswerOfTheUltimateQuestionOfLifeTheUniverseAndEverything()
         //{

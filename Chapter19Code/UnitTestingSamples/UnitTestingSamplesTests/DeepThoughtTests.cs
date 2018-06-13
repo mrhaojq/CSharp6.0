@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 
 namespace UnitTestingSamples.Tests
 {
-    [TestClass()]
+    [TestClass]
     public class DeepThoughtTests
     {
-        [TestMethod()]
+        [TestMethod]
         public void TheAnswerOfTheUltimateQuestionOfLifeTheUniverseAndEverythingTest()
         {
             //arrange

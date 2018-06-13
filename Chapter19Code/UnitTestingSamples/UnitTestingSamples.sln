@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestingSamples", "UnitT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestingSamplesTests", "UnitTestingSamplesTests\UnitTestingSamplesTests.csproj", "{17A6B57C-FC57-4764-88A8-5DAE452549C1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DotNet", "DotNet", "{45EFB779-3A66-46BF-82FE-1A24D6BBA045}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BE60EC7A-7C95-429A-98AE-AAE350E38275} = {45EFB779-3A66-46BF-82FE-1A24D6BBA045}
+		{17A6B57C-FC57-4764-88A8-5DAE452549C1} = {45EFB779-3A66-46BF-82FE-1A24D6BBA045}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EEA93898-02B8-45BD-A2AD-E7B028800562}

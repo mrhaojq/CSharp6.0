@@ -3,3 +3,8 @@ c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamples\bin\Debug\UnitTe
 c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamples\obj\Debug\UnitTestingSamples.csproj.CoreCompileInputs.cache
 c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamples\obj\Debug\UnitTestingSamples.dll
 c:\users\zyl\source\repos\UnitTestingSamples\UnitTestingSamples\obj\Debug\UnitTestingSamples.pdb
+D:\CSharp6.0\Chapter19Code\UnitTestingSamples\UnitTestingSamples\bin\Debug\UnitTestingSamples.dll
+D:\CSharp6.0\Chapter19Code\UnitTestingSamples\UnitTestingSamples\bin\Debug\UnitTestingSamples.pdb
+D:\CSharp6.0\Chapter19Code\UnitTestingSamples\UnitTestingSamples\obj\Debug\UnitTestingSamples.csproj.CoreCompileInputs.cache
+D:\CSharp6.0\Chapter19Code\UnitTestingSamples\UnitTestingSamples\obj\Debug\UnitTestingSamples.dll
+D:\CSharp6.0\Chapter19Code\UnitTestingSamples\UnitTestingSamples\obj\Debug\UnitTestingSamples.pdb

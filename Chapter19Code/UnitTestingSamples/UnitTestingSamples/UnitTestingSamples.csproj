@@ -40,8 +40,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChampionsLoader.cs" />
     <Compile Include="DeepThought.cs" />
+    <Compile Include="F1Addresses.cs" />
+    <Compile Include="Formula1.cs" />
+    <Compile Include="IChampionsLoader.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringSample.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
