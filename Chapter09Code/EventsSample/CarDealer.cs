@@ -5,7 +5,9 @@ using static System.Console;
 
 namespace EventsSample
 {
-
+    /// <summary>
+    /// Event Publiser
+    /// </summary>
     public class CarDealer
     {
         //public event EventHandler<CarInfoEventArgs> NewCarInfo;

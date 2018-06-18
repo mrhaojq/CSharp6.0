@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsSample", "EventsSample\EventsSample.csproj", "{E7881B44-6B29-4B85-886B-97382587C1DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeakEvents", "WeakEvents\WeakEvents.csproj", "{09F2F94C-F154-41BD-ABE4-1A8BC93E94B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeakEventsNET", "WeakEventsNET\WeakEventsNET.csproj", "{86024FCE-F371-4F62-BD63-F4FCC5755EEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E7881B44-6B29-4B85-886B-97382587C1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7881B44-6B29-4B85-886B-97382587C1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7881B44-6B29-4B85-886B-97382587C1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F2F94C-F154-41BD-ABE4-1A8BC93E94B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F2F94C-F154-41BD-ABE4-1A8BC93E94B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F2F94C-F154-41BD-ABE4-1A8BC93E94B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F2F94C-F154-41BD-ABE4-1A8BC93E94B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86024FCE-F371-4F62-BD63-F4FCC5755EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86024FCE-F371-4F62-BD63-F4FCC5755EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86024FCE-F371-4F62-BD63-F4FCC5755EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86024FCE-F371-4F62-BD63-F4FCC5755EEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

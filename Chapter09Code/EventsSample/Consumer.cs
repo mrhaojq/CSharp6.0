@@ -5,6 +5,9 @@ using static System.Console;
 
 namespace EventsSample
 {
+    /// <summary>
+    /// Event Listener
+    /// </summary>
   public  class Consumer
     {
         private string _name;
