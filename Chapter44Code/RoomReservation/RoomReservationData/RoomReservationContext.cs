@@ -1,7 +1,7 @@
 ﻿using System;
 using static System.Console;
 using RoomReservationContracts;
-using System.Data.Entity;
+using Microsoft.EntityFrameworkCore;
 
 namespace RoomReservationData
 {
@@ -9,8 +9,11 @@ namespace RoomReservationData
     {
         private const string ConnectionString = @"server=(localdb)\mssqllocaldb;Database=RoomReservations;trusted_connection=true";
 
-        public RoomReservationContext():base()
-        { }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            base.OnConfiguring(optionsBuilder);
+            optionsBuilder.UseSqlServer(ConnectionString);
+        }
 
         public DbSet<RoomReservation> RoomReservations { get; set; }
     }
