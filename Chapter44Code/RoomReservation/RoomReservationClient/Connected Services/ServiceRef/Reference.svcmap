@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ffdeef9f-6e2f-433d-9744-f1a0c7e1ae7a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:9000/RoomReservation?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="RoomReservation.xsd" MetadataType="Schema" ID="26616c59-b117-4acf-ba0c-c23eb7176009" SourceId="1" SourceUrl="http://localhost:9000/RoomReservation?xsd=xsd1" />
+    <MetadataFile FileName="RoomReservation1.xsd" MetadataType="Schema" ID="113c9deb-0ee4-47ae-8765-9651edb32fb0" SourceId="1" SourceUrl="http://localhost:9000/RoomReservation?xsd=xsd0" />
+    <MetadataFile FileName="RoomReservation.wsdl" MetadataType="Wsdl" ID="0970feb5-60d4-4d2f-936b-06dfce738e51" SourceId="1" SourceUrl="http://localhost:9000/RoomReservation?wsdl=wsdl0" />
+    <MetadataFile FileName="RoomReservation2.xsd" MetadataType="Schema" ID="f30b7107-d8c6-48d9-8118-fa4aa19aef04" SourceId="1" SourceUrl="http://localhost:9000/RoomReservation?xsd=xsd2" />
+    <MetadataFile FileName="RoomReservationService.wsdl" MetadataType="Wsdl" ID="cf0306e0-c49b-4d2a-a7d4-b1271de09492" SourceId="1" SourceUrl="http://localhost:9000/RoomReservation?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
